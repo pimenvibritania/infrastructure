@@ -1,3 +1,9 @@
 [submodule "gcp"]
 	path = gcp
 	url = git@github.com:pimenvibritania/infrastructure-gcp.git
+[submodule "terraform"]
+	path = terraform
+	url = git@github.com:pimenvibritania/terraform-legacy.git
+[submodule "jenkinsfiles"]
+	path = jenkinsfiles
+	url = git@github.com:pimenvibritania/infrastructure-jenkinsfiles.git

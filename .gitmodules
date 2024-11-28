@@ -1,0 +1,3 @@
+[submodule "gcp"]
+	path = gcp
+	url = git@github.com:pimenvibritania/infrastructure-gcp.git

@@ -7,3 +7,6 @@
 [submodule "jenkinsfiles"]
 	path = jenkinsfiles
 	url = git@github.com:pimenvibritania/infrastructure-jenkinsfiles.git
+[submodule "automations"]
+	path = automations
+	url = git@github.com:pimenvibritania/infrastructure-automation.git

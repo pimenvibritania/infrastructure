@@ -13,3 +13,6 @@
 [submodule "core"]
 	path = core
 	url = git@github.com:pimenvibritania/infrastructure-core.git
+[submodule "automation-test"]
+	path = automation-test
+	url = git@github.com:pimenvibritania/automation-test.git
